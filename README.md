@@ -64,7 +64,7 @@ TEMPLAT WEBSITE
 <body>
     <header>
         <h1>🌐 Website Khusus Buat Yang Doyan Apk Gratis Android</h1>
-        <p>Gak perlu beli Apk berbayar, disini gudangnya Apk Gratis 24/7!</p>
+        <p>Gak perlu beli Apk berbayar, disini gudangnya Apk Gratis</p>
         <a class="button" href="https://github.com/Sumom747" target="_blank">Lihat Tutorial</a>
     </header>
     <footer>
